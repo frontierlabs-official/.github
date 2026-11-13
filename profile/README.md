@@ -1,4 +1,4 @@
-# [Frontier Labs](https://frontierlabs.nl) 🚀
+# Frontier Labs 🚀
 We Design & Ship Software That Matters.\
 https://frontierlabs.nl
 
