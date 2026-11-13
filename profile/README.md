@@ -1,5 +1,6 @@
-# Frontier Labs 🚀
+# [Frontier Labs](https://frontierlabs.nl) 🚀
 We Design & Ship Software That Matters.
+ https://frontierlabs.nl
 
 ## Free Books
 [Intelligent Enterprise](https://books.brightlearn.ai/63c656ee-54be-40b4-9eb2-d9a13dc98b39/intelligent-enterprise-agentic-ai-mesh-for-business-agility-63c656ee-en.pdf)\
